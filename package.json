@@ -1,0 +1,24 @@
+{
+  "name": "aws_lambda_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacekburys/AWS_Lambda_Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacekburys/AWS_Lambda_Example/issues"
+  },
+  "homepage": "https://github.com/jacekburys/AWS_Lambda_Example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.202.0",
+    "claudia-bot-builder": "^3.0.0",
+    "huh": "^2.0.1"
+  }
+}

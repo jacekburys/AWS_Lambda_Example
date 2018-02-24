@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "aws_lambda_example-executor",
+    "name": "aws_lambda_example",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gj6pp9q1wf",
+    "module": "bot"
+  }
+}
